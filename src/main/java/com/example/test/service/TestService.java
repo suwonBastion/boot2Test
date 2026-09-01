@@ -5,6 +5,6 @@ public class TestService {
 
     
     public void test() {
-        return "안뇽!";
+        return "안뇽!!@";
     }
 }
